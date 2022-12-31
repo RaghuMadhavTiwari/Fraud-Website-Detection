@@ -17,7 +17,7 @@ set, server response, IP addresses, etc) to detect phishing website using Tablea
 
 ## Dashboard
 ### The Process of creating the dashboard was as follows -
-1. Create different tables for each analysis in MS Excel
+1. Create different tables for each analysis in MS Excel [All tables are added in the repo]
 2. Import one table at a time and create a sheet containing appropriate visualization
 3. Continue building sheets for all the tables
 4. Build a dashboard containing all the sheets
